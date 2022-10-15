@@ -1,0 +1,23 @@
+Objects\
+
+Objects\{95fa1811-4088-11ed-8eca-b0a7b9a1a1fc}\
+
+Objects\{95fa1811-4088-11ed-8eca-b0a7b9a1a1fc}\Description\
+Type=dword:03002010
+
+Objects\{95fa1811-4088-11ed-8eca-b0a7b9a1a1fc}\Elements\
+
+Objects\{95fa1811-4088-11ed-8eca-b0a7b9a1a1fc}\Elements\11000001\
+Element=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,05,00,00,00,00,00,00,00,48,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00
+
+Objects\{95fa1811-4088-11ed-8eca-b0a7b9a1a1fc}\Elements\12000002\
+Element="\\grldr"
+
+Objects\{95fa1811-4088-11ed-8eca-b0a7b9a1a1fc}\Elements\12000004\
+Element="grldr""
+
+Objects\{95fa1811-4088-11ed-8eca-b0a7b9a1a1fc}\Elements\16000048\
+Element=hex:01

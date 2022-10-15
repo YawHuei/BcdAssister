@@ -1,0 +1,17 @@
+Objects\
+
+Objects\{466f5a88-0af2-4f76-9038-095b170dc21c}\
+
+Objects\{466f5a88-0af2-4f76-9038-095b170dc21c}\Description\
+Type=(4):06003010
+
+Objects\{466f5a88-0af2-4f76-9038-095b170dc21c}\Elements\
+
+Objects\{466f5a88-0af2-4f76-9038-095b170dc21c}\Elements\12000002\
+Element=(1):"\\ntldr"
+
+Objects\{466f5a88-0af2-4f76-9038-095b170dc21c}\Elements\45000001\
+Element=(3):0x01
+
+Objects\{466f5a88-0af2-4f76-9038-095b170dc21c}\Elements\47000005\
+Element=(3):0x04000012000000000600000000000000
